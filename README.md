@@ -27,7 +27,7 @@ Abaixo um breve resumo da minha inicialização na área do desenvolvimento de s
 )](https://github.com/Juan-Gf)
 
 ## 📈 GitHub Stats
-![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Gf&theme=dark&show_icons=true)
+![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Gf&theme=highcontrast&show_icons=true)
 
 ## 💾 Projetos 
 
