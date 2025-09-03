@@ -26,6 +26,9 @@ Abaixo um breve resumo da minha inicialização na área do desenvolvimento de s
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge
 )](https://github.com/Juan-Gf)
 
+## 📈 Git Stats
+![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Gf&theme=dark&show_icons=true)
+
 ## 💾 Projetos 
 
 - ⚠ Área em construção
